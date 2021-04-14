@@ -1,2 +1,2 @@
 # Deep-Learning
-Deep learnıng projects
+Deep learnıng Python projects
